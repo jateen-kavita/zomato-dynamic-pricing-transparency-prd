@@ -1,31 +1,26 @@
-🍽️ Zomato — Dynamic Pricing Transparency PRD
-📘 About the PRD
+# 🍽️ Zomato — Dynamic Pricing Transparency PRD
 
-This Product Requirements Document (PRD) focuses on improving pricing transparency in Zomato’s food delivery experience.
-It identifies key user trust issues caused by dynamic delivery fee fluctuations, defines clear product requirements, and proposes a transparency-driven solution to improve user confidence, conversion, and retention across Tier 1 and Tier 2 Indian cities.
+## 📘 About the PRD
 
-The document is written from a Business Analyst / Product perspective, balancing business goals, user experience, and system feasibility.
+This **Product Requirements Document (PRD)** focuses on improving **pricing transparency** in Zomato’s food delivery experience.
+It identifies key user trust issues caused by **dynamic delivery fee fluctuations**, defines clear product requirements, and proposes a transparency-driven solution to improve **user confidence, conversion, and retention** across Tier 1 and Tier 2 Indian cities.
 
-📖 How to Use This Repository
+The document is written from a **Business Analyst / Product perspective**, balancing business goals, user experience, and system feasibility.
 
-Start with this README to understand the product context, problem statement, and objectives.
+---
 
-Review the complete PRD sections available in the /docs folder.
+## 📖 How to Use This Repository
 
-Refer to the /diagrams folder for supporting visuals such as:
+* Start with this **README** to understand the product context, problem statement, and objectives.
+* Review the complete **PRD sections** available in the `/docs` folder.
+* Refer to the `/diagrams` folder for supporting visuals such as:
 
-Pricing explanation flow
+  * Pricing explanation flow
+  * User journey diagrams
+  * KPI tree for transparency success metrics
+* Use this repository as a reference for:
 
-User journey diagrams
-
-KPI tree for transparency success metrics
-
-Use this repository as a reference for:
-
-Product requirements documentation (PRD)
-
-Pricing & transparency problem analysis
-
-KPI and success metrics definition
-
-User-centric product thinking in marketplaces
+  * Product requirements documentation (PRD)
+  * Pricing & transparency problem analysis
+  * KPI and success metrics definition
+  * User-centric product thinking in marketplaces
