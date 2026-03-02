@@ -5,8 +5,6 @@
 This **Product Requirements Document (PRD)** focuses on improving **pricing transparency** in Zomato’s food delivery experience.
 It identifies key user trust issues caused by **dynamic delivery fee fluctuations**, defines clear product requirements, and proposes a transparency-driven solution to improve **user confidence, conversion, and retention** across Tier 1 and Tier 2 Indian cities.
 
-The document is written from a **Business Analyst / Product perspective**, balancing business goals, user experience, and system feasibility.
-
 ---
 
 ## 📖 How to Use This Repository
